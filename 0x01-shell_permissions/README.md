@@ -1,0 +1,1 @@
+wich current user comand
